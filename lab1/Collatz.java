@@ -15,7 +15,6 @@ public class Collatz {
     }
 
     public static void main(String[] args) {
-        System.out.println('Hello!');
         int n = 5;
         System.out.print(n + " ");
         while (n != 1) {
